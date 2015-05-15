@@ -6,4 +6,8 @@ public class TestConttoller {
 		System.out.println("-------------- msg 1 ----------------");
 	}
 
+	public void secController() {
+
+	}
+
 }
