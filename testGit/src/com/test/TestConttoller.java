@@ -9,5 +9,9 @@ public class TestConttoller {
 	public void secController() {
 		System.out.println("****************");
 	}
+	
+	public void testController(){
+		System.out.prinltn("+++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+	}
 
 }
