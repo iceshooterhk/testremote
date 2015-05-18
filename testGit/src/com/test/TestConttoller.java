@@ -14,4 +14,8 @@ public class TestConttoller {
 		System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 	}
 
+	public void testtestController() {
+		System.out.println("22222222222222");
+	}
+
 }
